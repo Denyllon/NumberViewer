@@ -1,0 +1,8 @@
+.text-field {
+	-fx-padding: 0px 0px 0px 0px;
+	-fx-border-color: green;
+	-fx-border-radius: 5px;
+	-fx-background-color: #b8ff97;
+	-fx-background-radius: 6px;
+	-fx-text-fill: green;
+}
